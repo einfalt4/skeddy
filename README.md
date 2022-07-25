@@ -35,11 +35,7 @@ The following animation demonstrates the application functionality:
 
 Github: https://github.com/einfalt4/skeddy
 
-<<<<<<< HEAD
 URL: https://einfalt4.github.io/skeddy/
-=======
-URL:  https://einfalt4.github.io/skeddy/
->>>>>>> 14687fad73eb71b63041d808963f60686f53b650
 
 Created by: Randy Einfalt
 - - -
